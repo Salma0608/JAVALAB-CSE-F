@@ -22,5 +22,5 @@ System.out.println("boolean="+bool);
 }
 ```
 #OUTPUT
-![output of primitive](exp1.png)
+![output of primitive](exp1a.png)
 
