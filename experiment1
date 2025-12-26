@@ -1,5 +1,5 @@
 #eperiment1
-##TITLE:1A.) DISPLAY THE PRIMITIVE DATATYPES
+## TITLE:1a.) DISPLAY THE PRIMITIVE DATATYPES
 ```
 class Datatypes {
 static byte b;
@@ -21,5 +21,5 @@ System.out.println("boolean="+bool);
 }
 }
 ```
-#OUTPUT
-(PRIMITIVE DATA TYPES)(exp1a.png)
+# OUTPUT
+![output of primitive ](exp1a.png)
